@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class ConsoleConnector {
     private static final Scanner scanner = new Scanner(System.in);
-    ;
 
     private ConsoleConnector() {
 

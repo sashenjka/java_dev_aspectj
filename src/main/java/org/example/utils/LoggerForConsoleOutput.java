@@ -7,7 +7,6 @@ public class LoggerForConsoleOutput {
     private final static LoggerForConsoleOutput INSTANCE = new LoggerForConsoleOutput();
 
     private LoggerForConsoleOutput() {
-
     }
 
     public static LoggerForConsoleOutput getInstance() {
